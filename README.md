@@ -2,44 +2,32 @@
 
 ## About Me
 
-Hello! I am a B.Tech student pursuing a career in cybersecurity. I am currently learning cybersecurity fundamentals, Linux, networking, SQL, Python, and security analysis through hands-on practice and projects.
+Hello! I am a B.Tech student aspiring to build a career in cybersecurity. I am currently developing practical skills in Linux, networking, SQL, Python, security analysis, and incident response through hands-on projects and continuous learning.
+
+## Professional Statement
+
+I am a motivated and detail-oriented student with a strong interest in cybersecurity and protecting digital assets from evolving threats. I value integrity, continuous learning, and problem-solving, and I aim to help organizations strengthen their security posture.
+
+## Portfolio Sections
+
+* Professional Statement
+* Linux Projects
+* Networking Projects
+* SQL Projects
+* Python Projects
+* Security Projects
+* Certifications
 
 ## Skills Being Developed
 
-* Cybersecurity Fundamentals
-* Linux
-* Networking
+* Linux Administration
+* Networking Fundamentals
 * SQL
 * Python
+* Cybersecurity Fundamentals
 * Security Auditing
-* Incident Response
 * Risk Assessment
-
-## Portfolio Projects
-
-### Professional Statement
-
-Coming Soon
-
-### Linux Projects
-
-Coming Soon
-
-### Networking Projects
-
-Coming Soon
-
-### SQL Projects
-
-Coming Soon
-
-### Python Projects
-
-Coming Soon
-
-### Security Projects
-
-Coming Soon
+* Incident Response
 
 ## Certifications
 
@@ -47,4 +35,4 @@ Coming Soon
 
 ## Career Goal
 
-To become a Cybersecurity Analyst and help organizations protect their systems, networks, and data from cyber threats.
+To obtain an entry-level Cybersecurity Analyst or SOC Analyst role and contribute to protecting organizations against cyber threats.
